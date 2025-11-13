@@ -9,7 +9,7 @@ Permission is granted to use this code for academic and research purposes only.
 Modification, redistribution, or commercial use is not permitted.
 
 Any published work or research that uses this code must cite:
-Waqas, M. (2025). QSAR Modeling and Virtual Screening Pipeline.
+Waqas, M. (2025). Structural and Dynamic Profiling of SARS-CoV-2 Papain-Like Protease Bound to Machine-Learning-Identified Oxadiazole Inhibitors.
 
 screen_database.py
 Interactive screening using a saved QSAR model on database fingerprints.
@@ -513,3 +513,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
