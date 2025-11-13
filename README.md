@@ -123,7 +123,7 @@ Modification, redistribution, or commercial use is **not permitted**.
 
 If you use any part of this pipeline, please cite:
 
-Waqas, M. (2025). *QSAR Modeling and Virtual Screening Pipeline.*
+Waqas, M. (2025). *Structural and Dynamic Profiling of SARS-CoV-2 Papain-Like Protease Bound to Machine-Learning-Identified Oxadiazole Inhibitors.*
 
 ---
 
