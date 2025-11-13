@@ -11,7 +11,7 @@ Modification, redistribution, or commercial use is not permitted.
 Any published work or research that uses this code must cite:
 Waqas, M. (2025). Structural and Dynamic Profiling of SARS-CoV-2 Papain-Like Protease Bound to Machine-Learning-Identified Oxadiazole Inhibitors.
 
-Data_cleaning.py  (CHEMBL-friendly, with pIC50 + Active label)
+Data_cleaning.py  (pIC50 + Active label)
 
 Functions
 - Remove rows with missing/empty `Standard Value`.
